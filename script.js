@@ -1,3 +1,4 @@
+alert("JS works");
 console.log("game started");
 // Quiz data
 const quizzes = [
